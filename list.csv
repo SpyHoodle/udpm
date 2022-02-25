@@ -1,0 +1,105 @@
+DOT,https://github.com/SpyHoodle/dotfiles,master
+EXC,sh arch/pacman.sh
+EXC,sh arch/compilation.sh
+EXC,sh arch/refresh-keys.sh
+EXC,sh arch/newperms.sh
+EXC,sh arch/systembeepoff.sh
+EXC,paru -Syyuu
+PAC,xorg-server
+PAC,xorg-xwininfo
+PAC,xorg-xinit
+PAC,xorg-xprop
+PAC,xorg-xkill
+PAC,xdg-user-dirs
+PAC,xdg-utils
+PAC,xdotool
+PAC,xclip
+PAC,nvidia
+PAC,nvidia-dkms
+PAC,wireplumber
+PAC,pipewire
+PAC,pipewire-pulse
+PAC,pulsemixer
+PAC,pamixer
+PAC,playerctl
+PAC,spotify
+PAC,mpd
+PAC,mpc
+PAC,mpdris2
+PAC,ncmpcpp
+PAC,mpv
+PAC,yt-dlp
+PAC,mediainfo
+PAC,libnotify
+PAC,dunst
+PAC,unrar
+PAC,unzip
+PAC,fzf
+PAC,ntpdate
+EXC,sh arch/uk-time.sh
+PAC,bat
+PAC,htop-vim
+PAC,gotop
+PAC,btop
+PAC,maim
+PAC,gcolor2
+PAC,nim
+PAC,boomer-git
+PAC,ranger
+PAC,ueberzug
+PAC,picom
+PAC,openrgb-bin
+PAC,openrazer-meta
+PAC,hplip
+PAC,nsxiv
+PAC,feh
+PAC,ffmpeg
+PAC,zathura
+PAC,zathura-pdf-poppler
+PAC,lynx
+PAC,neofetch
+PAC,pfetch
+PAC,ttf-iosevka-nerd
+PAC,ttf-iosevka
+PAC,ttf-joypixels
+PAC,ttf-font-awesome
+PAC,adobe-source-han-sans-jp-fonts
+PAC,adobe-source-han-serif-jp-fonts
+PAC,neovim
+PAC,kakoune
+PAC,atom
+PAC,visual-studio-code-bin
+PAC,clion
+PAC,clion-jre
+PAC,webstorm
+PAC,webstorm-jre
+PAC,pycharm-professional
+PAC,gnome-keyring
+PAC,dosfstools
+PAC,ntfs-3g
+PAC,exfat-utils
+PAC,i3-gaps
+PAC,awesome
+PAC,firefox-bin
+PAC,ungoogled-chromium
+PAC,kdeconnect
+PAC,python
+PAC,python-pip
+PIP,getch
+PIP,pyfiglet
+PAC,figlet
+PAC,zsh
+PAC,zsh-autosuggestions
+PAC,zsh-syntax-highlighting
+EXC,sh arch/zsh.sh
+PAC,steam
+PAC,bottles
+PAC,lutris
+PAC,minecraft-launcher
+PAC,discord-canary
+PAC,ripcord
+GIT,https://github.com/SpyHoodle/perfectwm,master,sudo make install
+GIT,https://github.com/SpyHoodle/st,master,sudo make install
+GIT,https://github.com/SpyHoodle/dmenu,master,sudo make install
+GIT,https://github.com/SpyHoodle/dwmblocks,master,sudo make install
+SCR,https://github.com/SpyHoodle/scripts,master,install.sh
